@@ -121,9 +121,9 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ---
 
-Feel free to customize this README to better fit your repository's needs! If you have any specific requirements or additional sections you'd like to include, let me know!
 
-Source: Conversation with Copilot, 18/8/2024
+
+Source:
 (1) 4 Ways to Automate Exploratory Data Analysis (EDA) in Python. https://builtin.com/data-science/EDA-python.
 (2) Streamlining Data Exploration: A Comparison of Profiling Tools for .... https://dataroots.io/blog/streamlining-data-exploration-a-comparison-of-pandas-profiler-sweet-viz-and-pandas-gui-for-effective-eda.
 (3) Tools to Automate EDA - GeeksforGeeks. https://www.geeksforgeeks.org/tools-to-automate-eda/.
